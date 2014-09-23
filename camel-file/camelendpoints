@@ -1,0 +1,3 @@
+file:///home/mahesh/workspace/camel-file/Source1
+ftp://mahesh@localhost:21/workspace/camel-file/Source?password=sst123
+sftp://mahesh@localhost:22/workspace/camel-file/Source?password=sst123
