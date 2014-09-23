@@ -1,7 +1,11 @@
 AccountServices-ldap.properties.im123456
 AccountServices-ldap.properties.nfs1
 bindingservice.beans
+<<<<<<< HEAD
 bootstrap1
+=======
+bootstrap2
+>>>>>>> 81fc48cb2b5996f37b58a2195ee4e3ef8abc7b6b
 bootstrap.xml
 eClaims-ldap.properties
 eClaims-ldap.properties.im
