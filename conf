@@ -2,7 +2,7 @@ AccountServices-ldap.properties
 AccountServices-ldap.properties.im
 AccountServices-ldap.properties.nfs1
 bindingservice.beans
-bootstrap
+bootstrap1
 bootstrap.xml
 eClaims-ldap.properties
 eClaims-ldap.properties.im
