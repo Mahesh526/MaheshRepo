@@ -34,7 +34,6 @@ josso-auth.properties.nfs1
 login-config.xml
 login-config.xml.bkp.1
 matrixURL.properties
-props
 standardjbosscmp-jdbc.xml
 standardjboss.xml
 workdesk.properties
